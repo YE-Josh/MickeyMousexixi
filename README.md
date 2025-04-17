@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MickeyMousexixi
+- 👋 Hi, I’m @YE-Josh
 - 👀 I’m interested in eye movement, gait analysis, anxiety in both older adults and Parkinson's disease
 - 🌱 I’m currently learning Sport Science
 - 💞️ I’m looking to collaborate on Machine learning, Computer vision.
